@@ -8,8 +8,3 @@ My ultimate goal is to become a skilled cloud architect.
 - Github: https://github.com/kosmolito
 
 🚀💻🌩️ Let's work together to achieve great things in the cloud! 🌩️💻🚀
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/kosmolito/count.svg" />
-</p>
